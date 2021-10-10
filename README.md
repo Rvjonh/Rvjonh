@@ -36,8 +36,11 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 
 [![Website-1](Assets/website-images/website-1-min.png)](https://ecstatic-banach-d58de6.netlify.app/ "website-1")
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}.
 
 [![website-1](Assets/website-images/website-1-min.png)](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 [![website-1](Assets/website-images/website-1-min.png){:style="width:5em;"}](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+
+<a src="https://ecstatic-banach-d58de6.netlify.app/" width="5em" target="_blank"><img src="Assets/website-images/website-1-min.png"/></a>
