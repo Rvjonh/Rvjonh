@@ -34,13 +34,6 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 ---
 ### Websites Examples - Ejemplos de paginas webs
 
-[![Website-1](Assets/website-images/website-1-min.png)](https://ecstatic-banach-d58de6.netlify.app/ "website-1")
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}.
-
-[![website-1](Assets/website-images/website-1-min.png)](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
-[![website-1](Assets/website-images/website-1-min.png){:style="width:5em;"}](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
-
-<a src="https://ecstatic-banach-d58de6.netlify.app/" width="5em" target="_blank"><img src="Assets/website-images/website-1-min.png"/></a>
+|[![Website-1](Assets/website-images/website-1-min.png)](https://ecstatic-banach-d58de6.netlify.app/ "website-1")|[![Website-2](Assets/website-images/website-2-min.png)](https://naughty-newton-f08d63.netlify.app/ "website-2")|[![Website-3](Assets/website-images/website-3-min.png)](https://dazzling-shaw-566991.netlify.app/ "website-3")|[![Website-4](Assets/website-images/website-4-min.png)](https://thirsty-bardeen-70c364.netlify.app/ "website-4")|
+|---|---|---|---|
+|[![Website-5](Assets/website-images/website-5-min.png)](https://objective-liskov-3c2e0f.netlify.app/ "website-5")|[![Website-6](Assets/website-images/website-6-min.png)](https://upbeat-payne-47c93e.netlify.app/ "website-6")|[![Website-7](Assets/website-images/website-7-min.png)](https://musing-wing-7f7ee4.netlify.app/# "website-7")|[![Website-8](Assets/website-images/website-8-min.png)](https://sad-visvesvaraya-feb9c0.netlify.app/ "website-8")|
