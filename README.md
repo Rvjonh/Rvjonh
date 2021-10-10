@@ -18,11 +18,9 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 * **To Do App:** Add, Mark as done, Delete tasks, and control your activities with a "To Do App" like this.
 
 (Application): https://cocky-northcutt-b5b857.netlify.app/
-
 (Repository): https://github.com/Rvjonh/ToDoList"
 
 * **MediaPlayer:** Play, pause, ship, and more functionabilities in my mediaplayer example.
-
 (Application):https://determined-keller-915cae.netlify.app/
 
 (Repository): https://github.com/Rvjonh/MediaPlayer
@@ -30,7 +28,6 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 * **Calculator:** Use this calculator to operate simple math equations.
 
 (Application): https://github.com/Rvjonh/Calculator
-
 (Repository): https://thirsty-bohr-b0fc26.netlify.app/
 
 
@@ -38,3 +35,9 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 ### Websites Examples - Ejemplos de paginas webs
 
 [![Website-1](Assets/website-images/website-1-min.png)](https://ecstatic-banach-d58de6.netlify.app/ "website-1")
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+[![website-1](Assets/website-images/website-1-min.png)](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+[![website-1](Assets/website-images/website-1-min.png){:style="width:5em;"}](http://stackoverflow.com){:target="_blank" rel="noopener"}
