@@ -35,5 +35,5 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 ### Websites Examples - Ejemplos de paginas webs
 
 <div class="container">
-    <a class="img-container" title="Website-1" src="https://ecstatic-banach-d58de6.netlify.app/"><img src="Assets\website-images\website-1-min.png" alt="website-1" /></a>
+    <a class="img-container" target="_blank" title="Website-1" src="https://ecstatic-banach-d58de6.netlify.app/"><img src="Assets\website-images\website-1-min.png" alt="website-1" /></a>
 </div>
