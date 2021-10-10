@@ -21,9 +21,8 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 (Repository): https://github.com/Rvjonh/ToDoList"
 
 * **MediaPlayer:** Play, pause, ship, and more functionabilities in my mediaplayer example.
-(Application):https://determined-keller-915cae.netlify.app/
 
-(Repository): https://github.com/Rvjonh/MediaPlayer
+(Application):https://determined-keller-915cae.netlify.app/ (Repository): https://github.com/Rvjonh/MediaPlayer
 
 * **Calculator:** Use this calculator to operate simple math equations.
 
