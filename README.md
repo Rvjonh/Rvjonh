@@ -34,6 +34,23 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 ---
 ### Websites Examples - Ejemplos de paginas webs
 
-<div class="container">
-    <a class="img-container" target="_blank" title="Website-1" src="https://ecstatic-banach-d58de6.netlify.app/"><img src="Assets\website-images\website-1-min.png" alt="website-1" /></a>
+<div style="display:flex;flex-wrap:wrap;">
+    <a style="width:8em;" target="_blank" title="Website-1" src="https://ecstatic-banach-d58de6.netlify.app/">
+        <img src="Assets\website-images\website-1-min.png" alt="website-1" />
+    </a>
+    <a style="width:8em;" target="_blank" title="Website-2" src="https://naughty-newton-f08d63.netlify.app/">
+        <img src="Assets\website-images\website-2-min.png" alt="website-2" />
+    </a>
+    <a style="width:8em;" target="_blank" title="Website-1" src="https://dazzling-shaw-566991.netlify.app/">
+        <img src="Assets\website-images\website-3-min.png" alt="website-3" />
+    </a>
+    <a style="width:8em;" target="_blank" title="Website-2" src="https://thirsty-bardeen-70c364.netlify.app/">
+        <img src="Assets\website-images\website-4-min.png" alt="website-4" />
+    </a>
+    <a style="width:8em;" target="_blank" title="Website-1" src="https://objective-liskov-3c2e0f.netlify.app/">
+        <img src="Assets\website-images\website-5-min.png" alt="website-5" />
+    </a>
+    <a style="width:8em;" target="_blank" title="Website-2" src="https://upbeat-payne-47c93e.netlify.app/">
+        <img src="Assets\website-images\website-6-min.png" alt="website-6" />
+    </a>
 </div>
