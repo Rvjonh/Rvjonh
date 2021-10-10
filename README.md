@@ -16,18 +16,15 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 ### Example Projects - Proyectos de ejemplos
 
 * **To Do App:** Add, Mark as done, Delete tasks, and control your activities with a "To Do App" like this.
-<br/>
-(Application): [Live Demo](https://cocky-northcutt-b5b857.netlify.app/)
-(Repository): [Link](https://github.com/Rvjonh/ToDoList")
+(Application): https://cocky-northcutt-b5b857.netlify.app/
+(Repository): https://github.com/Rvjonh/ToDoList"
 
 * **MediaPlayer:** Play, pause, ship, and more functionabilities in my mediaplayer example.
-<br/>
-(Application):[Live Demo](https://determined-keller-915cae.netlify.app/)
-(Repository): [Link](https://github.com/Rvjonh/MediaPlayer)
+(Application):https://determined-keller-915cae.netlify.app/
+(Repository): https://github.com/Rvjonh/MediaPlayer
 
-* **Calculator:**: Use this calculator to operate simple math equations.
-<br/>
-(Application): [Live Demo](https://github.com/Rvjonh/Calculator)
-(Repository): [Link](https://thirsty-bohr-b0fc26.netlify.app/)
+* **Calculator:** Use this calculator to operate simple math equations.
+(Application): https://github.com/Rvjonh/Calculator
+(Repository): https://thirsty-bohr-b0fc26.netlify.app/
 
 
