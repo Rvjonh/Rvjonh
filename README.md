@@ -26,8 +26,8 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 
 * **Calculator:** Use this calculator to operate simple math equations.
 
-(Application): https://github.com/Rvjonh/Calculator
-(Repository): https://thirsty-bohr-b0fc26.netlify.app/
+(Application): https://thirsty-bohr-b0fc26.netlify.app/
+(Repository): https://github.com/Rvjonh/Calculator
 
 
 ---
