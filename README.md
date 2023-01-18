@@ -1,5 +1,11 @@
 # Hi, welcome to my repository
 
+<p align="center">
+    <video autoplay>
+        <source src="previews/video-bg.mp4" type="video/mp4">
+    </video>
+</p>
+
 I'm a system engineer and self-taught web developer from Venezuela.
 Github is a platform for software developers, where they can store their projects (known as repositories), to share them with people over the world. This is my account's repositories.
 
