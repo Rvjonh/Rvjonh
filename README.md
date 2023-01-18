@@ -13,16 +13,31 @@ Github is a platform for software developers, where they can store their project
 
 
 <p align="center">
-    <span>Contact me:<a src="mailto:jonhvelasco3@gmail.com">jonhvelasco3@gmail.com</a></span>
-</p>
+    <span>Contact me:<a href="mailto:jonhvelasco3@gmail.com" target="blank">jonhvelasco3@gmail.com</a></span>
 </p>
 <p align="center">
-    <a src="https://twitter.com/Rvjonh"><img width="40px" height="40px" src="icons/twiter.svg" /></a>
-    <a src="https://www.linkedin.com/in/jonh-gomez-067087250/"><img width="40px" height="40px" src="icons/linkedin.svg" /></a>
-    <a src="https://rvjonh-portfolio.netlify.app/blog"><img width="40px" height="40px" src="icons/blog.svg" /></a>
+    <a href="https://twitter.com/Rvjonh" target="blank"><img width="40px" height="40px" src="icons/twiter.svg" alt="rvjonh" /></a>
+    <a href="https://www.linkedin.com/in/jonh-gomez-067087250/" target="blank"><img width="40px" height="40px" src="icons/linkedin.svg" /></a>
+    <a href="https://rvjonh-portfolio.netlify.app/blog" target="blank"><img width="40px" height="40px" src="icons/blog.svg" /></a>
 </p>
 
 ---
+
+# Tech-Stack
+
+<p align="center">
+    <img width="40px" height="40px" title="HTML" alt="HTML" src="TechStack/html.png" />
+    <img width="40px" height="40px" title="CSS" alt="CSS" src="TechStack/css.png" />
+    <img width="40px" height="40px" title="JAVASCRIPT" alt="JAVASCRIPT" src="TechStack/js.png" />
+    <img width="40px" height="40px" title="REACT" alt="REACT" src="TechStack/react.png" />
+    <img width="40px" height="40px" title="JEST" alt="JEST" src="TechStack/jest.png" />
+    <img width="40px" height="40px" title="PYTHON" alt="PYTHON" src="TechStack/python.png" />
+    <img width="40px" height="40px" title="DJANGO" alt="DJANGO" src="TechStack/django.png" />
+    <img width="40px" height="40px" title="MySQL" alt="MySQL" src="TechStack/mysql.png" />
+    <img width="40px" height="40px" title="UNITTEST" alt="UNITTEST" src="TechStack/unittest.png" />
+    <img width="40px" height="40px" title="GIT" alt="GIT" src="TechStack/git.png" />
+</p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rvjonh" alt="RvJonh's GitHub stats"/>
