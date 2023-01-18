@@ -16,22 +16,13 @@ Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodi
 
 ---
 
-### Example Projects - Proyectos de ejemplos
+## Small Projects
 
-* **To Do App:** Add, Mark as done, Delete tasks, and control your activities with a "To Do App" like this.
-
-1. (Application): [Live Code App](https://rvjonh-todo-list.netlify.app/)
-2. (Repository): [Repo Link](https://github.com/Rvjonh/ToDoList)
-
-* **MusicPlayer:** Play, pause, ship, and more functionabilities in my mediaplayer example.
-
-1. (Application): [Live Code App](https://rvjonh-musicplayer.netlify.app/)
-2. (Repository): [Repo Link](https://github.com/Rvjonh/MusicPlayer)
-
-* **Calculator:** Use this calculator to operate simple math equations.
-
-1. (Application): [Live Code App](https://rvjonh-calculator.netlify.app/)
-2. (Repository): [Repo Link](https://github.com/Rvjonh/Calculator)
+| PROJECT | DESCRIPTION | LINKS |
+|---------|-------------|-------------|
+|**Wordy** [![wordy](previews/wordy-app.png)](https://aplicacion-wordy.netlify.app/ "wordy")| A progressive web application which emulates exercises in apps like Duolingo, Memrise and others, helps users to practices and keep new vocabulary, the app uses web API's to work in different devices, allowing save the data and use them in multiple platforms. It's a full applications which allows user to create an account and manage dictionaries, which are sets of words or vocaburlary for the users to practice. | [![live-code](icons/web-logo.png)](https://aplicacion-wordy.netlify.app/ "live-code") [![repository](icons/git-logo.png)](https://github.com/Rvjonh/wordy "repository")|
+|**To Do App** [![todo-app](previews/todo-logo.png)](https://rvjonh-todo-app.netlify.app/ "todo-app")| Fullstack app with react, python and RESTfull app hosted and live. Add, Mark as done, Delete tasks, and control your activities with a "To Do App" like this. | [![live-code](icons/web-logo.png)](https://rvjonh-todo-app.netlify.app/ "live-code") [![repository](icons/git-logo.png)](https://github.com/Rvjonh/FullStack-ToDo-App "repository")|
+|**MusicPlayer:** [![music-player](previews/music-player.png)](https://rvjonh-musicplayer.netlify.app/ "music-player")| Play, pause, ship, and more functionabilities in my mediaplayer example. Created in javascript uses the Audio API to control songs. | [![live-code](icons/web-logo.png)](https://rvjonh-musicplayer.netlify.app/ "live-code") [![repository](icons/git-logo.png)](https://github.com/Rvjonh/MusicPlayer "repository")|
 
 ### Websites Examples - Ejemplos de paginas webs
 
