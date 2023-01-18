@@ -1,9 +1,7 @@
 # Hi, welcome to my repository
 
 <p align="center">
-    <video autoplay>
-        <source src="previews/video-bg.mp4" type="video/mp4">
-    </video>
+    <img src="previews/gif.gif" alt="Rvjonh header"/>
 </p>
 
 I'm a system engineer and self-taught web developer from Venezuela.
