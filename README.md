@@ -1,4 +1,6 @@
-# Hi, welcome to my repository
+# 🔥Rvjonh💥
+
+
 
 <p align="center">
     <img src="previews/gif.gif" alt="Rvjonh header"/>
@@ -9,19 +11,24 @@ Github is a platform for software developers, where they can store their project
 
 ---
 
+
+<p align="center">
+    <span>Contact me:<a src="mailto:jonhvelasco3@gmail.com">jonhvelasco3@gmail.com</a></span>
+</p>
+</p>
+<p align="center">
+    <a src="https://twitter.com/Rvjonh"><img width="40px" height="40px" src="icons/twiter.svg" /></a>
+    <a src="https://www.linkedin.com/in/jonh-gomez-067087250/"><img width="40px" height="40px" src="icons/linkedin.svg" /></a>
+    <a src="https://rvjonh-portfolio.netlify.app/blog"><img width="40px" height="40px" src="icons/blog.svg" /></a>
+</p>
+
+---
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rvjonh" alt="RvJonh's GitHub stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvjonh&layout=compact" alt="Top Langs"/>
 </p>
 
----
-
-<h3 align="left" style="color:blue;text-weight:bold;text-align:center;">Connect with me: jonhvelasco3@gmail.com</h3>
-<p align="center" bgcolor="white" style="background-color:white; padding:1em;">
-    <a href="https://twitter.com/Rvjonh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/jonh-gomez-067087250/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-    <a href="https://rvjonh-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
 ---
 
