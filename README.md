@@ -1,18 +1,21 @@
-# Repositorio para ejemplos de proyectos
+# Hi, welcome to my repository
 
+I'm a system engineer and self-taught web developer from Venezuela.
 Github is a platform for software developers, where they can store their projects (known as repositories), to share them with people over the world. This is my account's repositories.
-
-Github es una plataforma para desarrolladores de software, donde pueden almacenar sus proyectos (conocidos como repositorios), para compartirlos con personas de todo el mundo. Estos son los repositorios de mi cuenta.
 
 ---
 
-## Hi, welcome to my repository
+![RvJonh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvjonh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvjonh&layout=compact)
 
-My name is Jonh Gomez, I'm a system engineer and self-taught web developer from Venezuela.
+---
 
-## Hola, bienvenido a mi repositorio
-
-Mi nombre es Jonh Gomez, soy un ingeniero de sistemas y desarrollador web autodidacta de Venezuela.
+<h3 align="left" style="color:blue;text-weight:bold;text-align:center;">Connect with me: jonhvelasco3@gmail.com</h3>
+<p align="center" style="background-color:white; padding:1em;">
+    <a href="https://twitter.com/Rvjonh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/jonh-gomez-067087250/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+    <a href="https://rvjonh-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ---
 
